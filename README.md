@@ -18,3 +18,4 @@ IMMUTABILITY OF THE STATE
 1.WHEN MAKING OPERATIONS WITH ARRAYS:
 　DO NOT USE mutable methods: push() or splice()
 	USE: concat(), slice() or ...spread operator
+	
